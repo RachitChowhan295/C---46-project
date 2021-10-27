@@ -1,0 +1,9 @@
+Debug: 
+
+1.change animation for the pacman on keypress
+2.check the timer logic
+
+Pending:
+
+1.update the logic for pacman eating the monsters, based on timer
+2.modify the logic of game win and lose senarios
